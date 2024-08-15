@@ -1,5 +1,5 @@
 # Calculator App Automation With Appium
-In this project i have automated the Google Calculator APK  using Selenium, TestNG, and Appium in IntelliJ IDEA, with testing conducted on the Android Studio emulator. Finally i have created allure report of the test suite. 
+In this project i have automated the Google Calculator APK  using Selenium, TestNG, and Appium in IntelliJ IDEA, with testing conducted on the Android Studio emulator.I have generated the Allure Report for test visualization of the test suite.
 ## Problem Scenario
 Automate any series for calculator app. Pass the series as a parameter to your test method.
 For an example:
